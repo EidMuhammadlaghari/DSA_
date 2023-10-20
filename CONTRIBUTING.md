@@ -1,9 +1,9 @@
 # Hacktoberfest Contribution Guidelines
-Thank you for your interest in contributing to the Calculator App as part of Hacktoberfest. Your contributions are highly appreciated, and your efforts help improve this open-source project. Please follow the guidelines below for a smooth and effective contribution process.
+Thank you for your interest in contributing to the DSA as part of Hacktoberfest. Your contributions are highly appreciated, and your efforts help improve this open-source project. Please follow the guidelines below for a smooth and effective contribution process.
 
 ## How to Contribute
 
-To contribute to the Calculator App for Hacktoberfest, please adhere to the following steps:
+To contribute to the DSA for Hacktoberfest, please adhere to the following steps:
 
 1. **Fork the Repository**: Start by forking the repository to your personal GitHub account.
 
@@ -37,7 +37,7 @@ To contribute to the Calculator App for Hacktoberfest, please adhere to the foll
 
 ## Reporting Issues and Bugs
 
-If you encounter a bug or have a feature request, we encourage you to open an issue on the [GitHub issue tracker](https://github.com/eidmuhammadlaghari/calculator-app/issues). When creating a new issue, provide comprehensive information, including steps to reproduce the issue.
+If you encounter a bug or have a feature request, we encourage you to open an issue on the [GitHub issue tracker](https://github.com/zami-dot/DSA_/issues). When creating a new issue, provide comprehensive information, including steps to reproduce the issue.
 
 ## Licensing
 
